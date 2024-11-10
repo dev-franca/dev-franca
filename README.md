@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Alexande+França&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Alexandre+França&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexandre+França;I'm+18+years+old;I+am+from+Brasil,+RJ;I+study+analysis+and+systems+development;and+Software+engineering;Specializing+in+WebDeveloper;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -16,11 +16,11 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white))&nbsp;
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white))&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1))&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white))&nbsp;
-![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php))&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
