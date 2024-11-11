@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF &height=120&section=header&text=Alexandre+França&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Alexandre+França&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexandre+França;I'm+18+years+old;I+am+from+Brazil,+RJ;I+study+systems+development;Specializing+in+WebDeveloper;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
