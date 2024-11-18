@@ -12,11 +12,11 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-330000?style=for-the-badge&logo=javascript&labelColor=330000&textColor=ffffff)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-ff4d4d?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![BootStrap](https://img.shields.io/badge/Bootstrap-ff3333?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-330000?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-330000?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL-330000?&logo=MySQL&logoColor=ff4d4d)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-ff4d4d?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![PHP](https://shields.io/badge/-PHP-d63636?style=flat&logo=php)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-330000?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![PHP](https://shields.io/badge/-PHP-330000?style=flat&logo=php)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-330000?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8&labelColor=330000)&nbsp;
