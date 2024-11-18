@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🖌️🖥️ Sou um Desenvolvedor Web Full Stack dedicado a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️ 
+# 👨🏻‍💻 I am a Full Stack Web Developer dedicated to offering intelligent solutions combined with an attractive design 👨🏻‍💻
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-franca&show_icons=true&count_private=true&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=f2f2f2&bg_color=330000" alt="Alexandre França github stats" /> 
